@@ -18,6 +18,12 @@ body{
 	color:#fff;
 }
 
+#main-header span{
+	color:black;
+	font-size:35px;
+	font-weight: bold;
+}
+
 #navbar{
 	background-color:#333;
 	color:#fff;
